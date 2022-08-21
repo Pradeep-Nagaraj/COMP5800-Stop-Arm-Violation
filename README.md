@@ -6,9 +6,10 @@ Children crossing streets are at risk of being met with an accident. School bus 
 
 We have used pre-trained COCO dataset available in internet for our project. The MS COCO dataset (Microsoft Common Objects in Context) is a large-scale dataset for object detection, segmentation, key-point detection, and captioning, which is freely available for all. And used Yolov3 model for vehicle detection, our proposed method consists of various steps
 Our proposed method consists of various steps
-A. Detecting the vehicle object
-B. Extracting Frame Difference
-C. Automatic License Plate Recognition
+
+1. Detecting the vehicle object
+2. Extracting Frame Difference
+3. Automatic License Plate Recognition
 
 ## Getting started with the project
 ***
