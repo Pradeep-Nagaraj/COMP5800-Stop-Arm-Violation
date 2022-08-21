@@ -18,10 +18,11 @@ Our proposed method consists of various steps
 * Make sure all files are in same directory.
 * Run the code from [Final.ipynb](https://github.com/Pradeep-Nagaraj/COMP5800-Stop-Arm-Violation/blob/main/Final.ipynb) file.
 * The output images of violated vehicle will be saved in [Result/TEST_2_tracking](https://github.com/Pradeep-Nagaraj/COMP5800-Stop-Arm-Violation/blob/main/Final.ipynb) folder and the vehicle information in [result_file.txt](https://github.com/Pradeep-Nagaraj/COMP5800-Stop-Arm-Violation/blob/main/Result/TEST_2_tracking/result_file.txt) file.
+* The vehicle infomration will be moved to cloud.
 
 
 
-## Data Storage in CLoud
+## Data Storage in Cloud
 
 Azure Blob storage is Microsoft’s object storage solution for the cloud. Blob storage is optimized for storing massive amounts of unstructured data.  AzCopy is an easy-to-use command-line tool for Windows and Linux that copies data to and from Blob storage, across containers, or across storage accounts.
 
