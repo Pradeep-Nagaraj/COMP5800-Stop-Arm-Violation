@@ -15,7 +15,7 @@ C. Automatic License Plate Recognition
 * Clone the Repository "https://github.com/Pradeep-Nagaraj/COMP5800-Stop-Arm-Violation"
 * Download the model, yolov3.weights file and copy it into the same directory
 * Make sure all files are in same directory.
-* Run the code from Final.ipynb file.
+* Run the code from [Final.ipynb](https://github.com/Pradeep-Nagaraj/COMP5800-Stop-Arm-Violation/blob/main/Final.ipynb) file.
 
 
 
