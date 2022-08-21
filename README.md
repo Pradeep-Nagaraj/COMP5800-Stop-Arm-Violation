@@ -17,6 +17,7 @@ Our proposed method consists of various steps
 * Download the model, yolov3.weights file and copy it into the same directory
 * Make sure all files are in same directory.
 * Run the code from [Final.ipynb](https://github.com/Pradeep-Nagaraj/COMP5800-Stop-Arm-Violation/blob/main/Final.ipynb) file.
+* The output images of violated vehicle will be saved in [Result/TEST_2_tracking](https://github.com/Pradeep-Nagaraj/COMP5800-Stop-Arm-Violation/blob/main/Final.ipynb) folder and the vehicle information in [result_file.txt](https://github.com/Pradeep-Nagaraj/COMP5800-Stop-Arm-Violation/blob/main/Result/TEST_2_tracking/result_file.txt) file.
 
 
 
