@@ -39,3 +39,9 @@ Step-2: Command to copy files to Azure container
 azcopy copy "C:\Users\prade\miniconda3\MyProject\Final-Code\Result/*" "https://vehicleinfo.blob.core.windows.net/vehicleviolatedinfo?sv=2021-06-08&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2022-09-01T10:17:27Z&st=2022-08-15T02:17:27Z&spr=https&sig=LZxi3Kcg3QLGe1kZyyOfXo%2BjBc%2Bi5yuxpr9lDei9U7M%3D"
 
 To automate the process, we have scheduled the task in MS Task Scheduler using batch file, which will run every day at 12pm to transfer all the violated vehicle images to the cloud.
+
+## Contributors
+
+Pradeep Nagaraj, Ajay Ramasubramanian and Rajasri Masuldari,  Students at Department of Computer Science, Lakehead University, Thunder Bay, ON
+
+**Supervised under** Dr. Amin Safaei, Professor, Department of Computer Science, Lakehead University, Thunder Bay, ON
